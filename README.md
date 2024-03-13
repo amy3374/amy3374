@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, This is Minseo Kim</h1>
 <h3 align="center">A passionate frontend developer who codes dreams.</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=%20🙌Welcome%20to%20Minseo's%20Github🙌%20&fontSize=50&fontColor=000000&fontAlign=50&descAlign=55&reversal=false" />
-
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
