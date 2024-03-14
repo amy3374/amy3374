@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
 </div>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amy3374&show_icons=true&locale=en&layout=compact" alt="amy3374" />&nbsp
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amy3374&show_icons=true&locale=en&layout=compact" alt="amy3374" />&nbsp&nbsp
   
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amy3374&" alt="amy3374" />
 </div>
