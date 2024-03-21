@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, This is Minseo Kim</h1>
 <h3 align="center">A passionate frontend developer who codes dreams.</h3>
+<p>저는 개발자로서 새로운 것을 배우는 것에 대한 도전을 두려워하지 않습니다. 새로운 기술을 배우고 그것을 실제로 적용해보며 다양한 프로젝트를 구상하고 구현하는 과정이 제게 큰 즐거움을 줍니다. 이처럼 항상 배움에 있어 열려있는 태도는 저의 가장 큰 강점이라고 생각합니다. 또한, 최신 기술 트렌드를 적극적으로 받아들여 프로젝트에서도 좋은 결과를 이끌어낼 수 있다고 확신합니다.😊</p>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
