@@ -17,15 +17,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/Express-ffffff?style=for-the-badge&logo=Express&logoColor=black"/>&nbsp
-  <img src="https://img.shields.io/badge/Node.Js-ffffff?style=for-the-badge&logo=Node.Js&logoColor=deepgreen"/>&nbsp
-  <img src="https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=MongoDB&logoColor=green">
-</div>
-
-<br>
-
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
@@ -33,6 +24,14 @@
   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" />&nbsp
 </div>
+<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/Express-ffffff?style=for-the-badge&logo=Express&logoColor=black"/>&nbsp
+  <img src="https://img.shields.io/badge/Node.Js-ffffff?style=for-the-badge&logo=Node.Js&logoColor=deepgreen"/>&nbsp
+  <img src="https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=MongoDB&logoColor=green">
+</div>
+
 <br>
 
 <h3 align="center">🛠 Tools 🛠</h3>
